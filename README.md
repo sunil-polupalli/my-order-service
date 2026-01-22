@@ -63,7 +63,7 @@ The system consists of two primary services and infrastructure components:
 ### Running the Application
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/sunil-polupalli/my-order-service.git
     cd my-order-service
     ```
 
