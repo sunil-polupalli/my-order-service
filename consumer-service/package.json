@@ -1,0 +1,16 @@
+{
+  "name": "consumer-service",
+  "version": "1.0.0",
+  "main": "src/consumer.js",
+  "scripts": {
+    "start": "node src/consumer.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "mysql2": "^3.6.5"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
